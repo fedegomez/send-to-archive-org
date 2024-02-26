@@ -1,0 +1,125 @@
+# Copyright (C) 2024 Fede Gómez
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Send to Archive.org 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/send-to-archive-"
+"org\n"
+"POT-Creation-Date: 2024-02-02T12:41:47+00:00\n"
+"PO-Revision-Date: 2024-02-02 13:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Domain: send-to-archive-org\n"
+
+#. Plugin Name of the plugin
+#: admin/class-send-to-archive-org-admin.php:234
+#: admin/class-send-to-archive-org-admin.php:457
+msgid "Send to Archive.org"
+msgstr "Enviar a Archive.org"
+
+#. Plugin URI of the plugin
+msgid "https://www.fedegomez.es/plugins/send-to-archive-org/"
+msgstr "https://www.fedegomez.es/plugins/send-to-archive-org/"
+
+#. Description of the plugin
+msgid ""
+"Automatically send the public contents of your website to Archive.org to "
+"have always available a history with backups of them."
+msgstr ""
+"Envía automáticamente los contenidos públicos de tu web a Archive.org para "
+"tener siempre disponible un historial con copias de seguridad de los mismos."
+
+#. Author of the plugin
+msgid "Fede Gómez"
+msgstr "Fede Gómez"
+
+#. Author URI of the plugin
+msgid "https://www.fedegomez.es/"
+msgstr "https://www.fedegomez.es/"
+
+#: admin/class-send-to-archive-org-admin.php:78
+msgid "Request successfully submitted"
+msgstr "Solicitud enviada correctamente"
+
+#: admin/class-send-to-archive-org-admin.php:122
+msgid "Select post types"
+msgstr "Seleccionar tipos de contenido"
+
+#: admin/class-send-to-archive-org-admin.php:130
+msgid "Show Archive.org info"
+msgstr "Mostrar información de Archive.org"
+
+#: admin/class-send-to-archive-org-admin.php:138
+msgid "Report the result"
+msgstr "Informar del resultado"
+
+#: admin/class-send-to-archive-org-admin.php:146
+msgid "Send results to"
+msgstr "Enviar los resultados a"
+
+#: admin/class-send-to-archive-org-admin.php:177
+msgid "Show column with the date of the last save in Archive.org"
+msgstr "Mostrar columna con la fecha del último guardado en Archive.org"
+
+#: admin/class-send-to-archive-org-admin.php:185
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/class-send-to-archive-org-admin.php:186
+msgid "No"
+msgstr "No"
+
+#: admin/class-send-to-archive-org-admin.php:199
+msgid "Send to Archive.org Settings"
+msgstr "Ajustes de Enviar a Archive.org"
+
+#: admin/class-send-to-archive-org-admin.php:246
+msgid "Archive.org"
+msgstr "Archive.org"
+
+#: admin/class-send-to-archive-org-admin.php:254
+msgid "Checking..."
+msgstr "Comprobando…"
+
+#: admin/class-send-to-archive-org-admin.php:322
+#: admin/class-send-to-archive-org-admin.php:388
+msgid "Security check failed"
+msgstr "Error en la comprobación de seguridad"
+
+#: admin/class-send-to-archive-org-admin.php:334
+#: admin/class-send-to-archive-org-admin.php:425
+msgid "Sent to Archive.org on"
+msgstr "Enviado a Archive.org el"
+
+#: admin/class-send-to-archive-org-admin.php:353
+msgid "Save bulk request"
+msgstr "Guardar solicitud masiva"
+
+#: admin/class-send-to-archive-org-admin.php:363
+msgid "There are no posts to submit"
+msgstr "No hay entradas para enviar"
+
+#: admin/class-send-to-archive-org-admin.php:420
+msgid "Failed to query Archive.org"
+msgstr "Error al consultar Archive.org"
+
+#: admin/class-send-to-archive-org-admin.php:443
+msgid "Not archived yet"
+msgstr "No archivado aún"
+
+#: admin/class-send-to-archive-org-admin.php:496
+msgid "The request has been sent to Archive.org"
+msgstr "La solicitud se ha enviado a Archive.org"
+
+#: admin/class-send-to-archive-org-admin.php:499
+msgid "Error sending request to Archive.org"
+msgstr "Error al enviar la solicitud a Archive.org"
+
+#: admin/partials/send-to-archive-org-admin-display.php:22
+msgid "Save settings"
+msgstr "Guardar ajustes"
